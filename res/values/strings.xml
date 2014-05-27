@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BengalaMobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_choice">Selecione o que deseja fazer</string>
+    <string name="musicas">Musicas</string>
+    <string name="contatos">Contatos</string>
+    <string name="validar">Validar</string>
+    <string name="resposta_validacao">Resposta da Validação</string>
+    
+
+</resources>
